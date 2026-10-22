@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Pooja 👋
 
-<!--
-**poojabilaskar02/poojabilaskar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm growing my skills through hands-on practice and small projects, with interests in software development, software testing, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🎓 Computer Engineering background
+- 💡 Interested in programming and problem-solving
+- 🧪 Exploring software testing and quality assurance
+- 🤖 Learning the fundamentals of AI and machine learning
+- 🚀 Working toward building practical projects and a strong portfolio
+
+## 🛠️ Skills & Learning
+- **Programming:** Python, JavaScript, C
+- **Web Development:** HTML, CSS
+- **Database:** SQL
+- **Currently exploring:** Git/GitHub, software testing, AI/ML
+
+*I’m continuing to practise these technologies and will update this section as I build more experience.*
+
+## 📌 Projects
+- **[First-repo-](https://github.com/poojabilaskar02/First-repo-)** — My first public repository and starting point for coding practice.
+
+More projects will be added as I build and learn.
+
+## 🎯 Goals
+- Practise coding regularly
+- Build useful, complete projects
+- Improve problem-solving skills
+- Explore software testing and AI/ML
+- Collaborate and learn from the developer community
+
+## 🤝 Connect
+- **GitHub:** [@poojabilaskar02](https://github.com/poojabilaskar02)
+
+---
+⭐ Thanks for visiting my profile. I'm learning, building, and improving one step at a time.
